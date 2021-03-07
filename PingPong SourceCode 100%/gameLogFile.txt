@@ -1,0 +1,206 @@
+player2 : 1
+GAME OVER !! 
+Time taken: 2091 ms 
+player2 is the WINNER 
+============== Game Ended ===============player1 : 1
+GAME OVER !! 
+Time taken: 7759 ms 
+player1 is the WINNER 
+============== Game Ended ===============Computer is the WINNER 
+============== Game Ended =============== 
+GAME OVER !! 
+Time taken: 7760 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+GAME OVER !! 
+Time taken: 2083 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+GAME OVER !! 
+Time taken: 7759 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+player1 : 1
+player2 : 1
+player2 : 2
+player2 : 3
+player1 : 2
+player1 : 3
+player1 : 4
+player1 : 5
+GAME OVER !! 
+Time taken: 31013 ms 
+player1 is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 34416 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+w : 1
+w : 2
+w : 3
+s : 1
+w : 4
+w : 5
+GAME OVER !! 
+Time taken: 26428 ms 
+w is the WINNER 
+============== Game Ended =============== 
+llLL : 1
+dddddddd : 1
+dddddddd : 2
+llLL : 2
+llLL : 3
+llLL : 4
+llLL : 5
+GAME OVER !! 
+Time taken: 28483 ms 
+llLL is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 71316 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Usama : 1
+Usama : 2
+Hassaan : 1
+Usama : 3
+Hassaan : 2
+Usama : 4
+Usama : 5
+GAME OVER !! 
+Time taken: 37633 ms 
+Usama is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 25267 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 50404 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 30660 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Ahmad : 1
+Ahmad : 2
+Ahmad : 3
+usama : 1
+usama : 2
+Ahmad : 4
+usama : 3
+Ahmad : 5
+GAME OVER !! 
+Time taken: 81919 ms 
+Ahmad is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 56515 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+b : 1
+a : 1
+b : 2
+a : 2
+a : 3
+a : 4
+a : 5
+GAME OVER !! 
+Time taken: 83015 ms 
+a is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+Computer: 5 
+GAME OVER !! 
+Time taken: 87046 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+ : 1
+ : 1
+ : 1
+ : 2
+ : 1
+ : 3
+love : 1
+usama : 1
+usama1 : 1
+usama1 : 2
+hassaan : 1
+usama1 : 3
+usama1 : 4
+usama1 : 5
+GAME OVER !! 
+Time taken: 45312 ms 
+usama1 is the WINNER 
+============== Game Ended =============== 
+hassaan : 1
+usama1 : 1
+usama1 : 2
+ : 1
+ : 1
+ : 2
+usama1 : 1
+usama1 : 2
+usama1 : 3
+Hassaan : 1
+usama1 : 4
+Hassaan : 2
+usama1 : 5
+GAME OVER !! 
+Time taken: 56710 ms 
+usama1 is the WINNER 
+============== Game Ended =============== 
+Computer: 1 
+Computer: 2 
+Computer: 3 
+Computer: 4 
+usama : 1Computer: 5 
+GAME OVER !! 
+Time taken: 62818 ms 
+Computer is the WINNER 
+============== Game Ended =============== 
+
