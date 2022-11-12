@@ -6,6 +6,9 @@ Description:
 Pong is an arcade game, in which two players control "paddles" and try to knock a ball back and forth. If the ball gets past your opponent's paddle, you get a point. Whoever gets the most points win.
 The game is played by using the keyboard (one player plays using the arrow keys “up” and “down “and other one plays using the “w” and “s” keys). Players can move their paddles up and down on the screen, and when the ball hits the paddle it bounces off. The ball should also bounce off the floor and ceiling and will need to detect when it has gotten past a paddle. When one paddle misses the ball, the opponent gets the point. It keeps the track of the current score on the scoreboard and declare a winner with more score.
 
+![Pong Java](https://user-images.githubusercontent.com/56690325/201481720-479b5b18-693c-4287-b559-879e29ef86d2.png)
+
+
 Features:
 
 
